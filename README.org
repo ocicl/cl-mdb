@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://gitee.com/bobwxc/cl-mdb.git   |
-| commit  | {"messa  |
+| commit  | 769f3e6  |
 | systems | cl-mdb |
 |---------+-------------------------------------------|
 
